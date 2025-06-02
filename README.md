@@ -3,6 +3,11 @@
 Flare is a simple programming language
 that is designed to be easy to use and understand. [Examples](https://github.com/orgs/flarelang/repositories).
 
+# IMPORTANT
+
+Flare will be replaced by Nubo, a new interpreter language with a much better interpreter and language features. If you are interested, here is the new repo:
+https://github.com/nubolang/nubo. It will be a powerful real-time programming language.
+
 ## About
 
 Flare is a weakly-typed, interpreted language that is designed to be easy to use and understand.
